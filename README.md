@@ -1,6 +1,7 @@
 # DL_Assigment
 
-##Instructor:##
+**Instructor:**
+
 '1. git clone https://github.com/Lamanh1234/DL_Assigment.git'
 
 '2. venv\Scripts\activate.bat '
