@@ -35,7 +35,7 @@ def load_model(model, optimizer, path):
     return model, optimizer
 
 
-model, optimizer = load_model(model,optimizer,"unet_model.pth")
+model, optimizer = load_model(model,optimizer,"model.pth")
 
 # -----------------------------------------------------------------------------
 trainsize = 256
