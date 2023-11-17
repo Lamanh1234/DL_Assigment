@@ -1,6 +1,6 @@
 # DL_Assigment
 
-**Instructor:**
+**Instruction for infer:**
 
 '1. git clone https://github.com/Lamanh1234/DL_Assigment.git'
 
