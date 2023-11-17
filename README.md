@@ -12,4 +12,4 @@
 
 '5. python infer.py'
 
-'6. Get the output.csv file in the folder'
+'6. Watiting until appear "Done" then get the output.csv file in the folder'
